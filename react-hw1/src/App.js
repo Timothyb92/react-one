@@ -1,19 +1,30 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import FighterCard from './components/FighterCard';
+import Title from './components/Title';
+import Wrapper from './components/Wrapper';
+import fighters from './fighters.json';
 import './App.css';
 
 class App extends Component {
+
+  state = {
+    fighters
+  }
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
+      <Wrapper>
+        <Title>World Warriors</Title>
+        {this.state.fighters.map(fighter => (
+          <FighterCard
+            id={fighter.id}
+            key={fighter.id}
+            name={fighter.name}
+            image={fighter.image}
+          />
+        ))}
+      </Wrapper>
     );
   }
 }
