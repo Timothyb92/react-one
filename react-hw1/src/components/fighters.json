@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Ryu",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f325fae4b0a13f9746a065/1408443901081/ryu_portrait3.gif"
+  },
+  {
+    "id": 2,
+    "name": "Ken",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f31e7ce4b0e9d91b04d4b3/1408441982623/ken_portrait.gif"
+  },
+  {
+    "id": 3,
+    "name": "Fei Long",
+    "image": "https://orig00.deviantart.net/5359/f/2008/240/7/d/character_select__fei_long_by_udoncrew.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vega",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f2d793e4b01ae9c43fd65f/1408423829194/"
+  },
+  {
+    "id": 5,
+    "name": "Balrog",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f2e05de4b05ed0ec5a12ae/1408426104194/"
+  },
+  {
+    "id": 6,
+    "name": "M. Bison",
+    "image": "http://wiki.shoryuken.com/images/9/91/SFHDRportraitdictator.PNG"
+  },
+  {
+    "id": 7,
+    "name": "E. Honda",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f317dbe4b0514b8e62803e/1408440285127/honda_portrait.gif"
+  },
+  {
+    "id": 8,
+    "name": "Chun-Li",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f2f32fe4b0ab364450d243/1408430897381/"
+  },
+  {
+    "id": 9,
+    "name": "Blanka",
+    "image": "https://static.giantbomb.com/uploads/original/0/3715/826902-blanka.gif"
+  },
+  {
+    "id": 10,
+    "name": "Dhalsim",
+    "image": "https://static.giantbomb.com/uploads/original/0/3715/826900-dhalsim.gif"
+  },
+  {
+    "id": 11,
+    "name": "Guile",
+    "image": "https://static1.squarespace.com/static/50f14d35e4b0d70ab5fc4f24/t/53f31c73e4b009ac85d3e487/1408441460584/guile_portrait.gif"
+  },
+  {
+    "id": 12,
+    "name": "Sagat",
+    "image": "http://iplaywinner.com/storage/sagat_portrait2.gif?__SQUARESPACE_CACHEVERSION=1259069425740"
+  }
+]
