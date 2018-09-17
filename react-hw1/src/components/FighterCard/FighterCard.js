@@ -2,9 +2,11 @@ import React from 'react';
 import './FighterCard.css';
 
 const FighterCard = props => (
-  <div className="card">
-    <div className="img-container">
-      <img src={props.image} />
+  <div className="fighterCards col-3">
+    <div className="card">
+      <div className="img-container card-body">
+        <img src={props.image} alt={props.name} width="170px" height="170px" />
+      </div>
     </div>
   </div>
 );
